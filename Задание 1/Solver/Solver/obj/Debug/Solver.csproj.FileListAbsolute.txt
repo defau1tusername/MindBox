@@ -1,0 +1,6 @@
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\bin\Debug\Solver.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\bin\Debug\Solver.pdb
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\obj\Debug\Solver.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\obj\Debug\Solver.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\obj\Debug\Solver.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\Solver\Solver\obj\Debug\Solver.pdb

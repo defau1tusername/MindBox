@@ -8,7 +8,7 @@ public class CircleTests
     [TestCase(23478324, 1731745452388171.5)]
     public void AreaCalculation_IsCorrect(double radius, double expected)
     {
-        Assert.AreEqual(expected, new Circle(radius).Area);
+        Assert.That(new Circle(radius).Area, Is.EqualTo(expected));
     }
 
     [TestCase(-10)]

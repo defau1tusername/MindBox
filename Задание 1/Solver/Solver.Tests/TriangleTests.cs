@@ -6,7 +6,7 @@ public class TriangleTests
     [TestCase(12, 2, 12, 11.958260743101398)]
     public void AreaCalculation_IsCorrect(double a, double b, double c, double expected)
     {
-        Assert.AreEqual(expected, new Triangle(a, b, c).Area);
+        Assert.That(new Triangle(a, b, c).Area, Is.EqualTo(expected));
     }
 
     [TestCase(0, 0, 0)]
@@ -21,6 +21,6 @@ public class TriangleTests
     [TestCase(2, 2, 3, false)]
     public void IsRight(double a, double b, double c, bool expected)
     {
-        Assert.AreEqual(expected, new Triangle(a, b, c).IsRight());
+        Assert.That(new Triangle(a, b, c).IsRight(), Is.EqualTo(expected));
     }
 }

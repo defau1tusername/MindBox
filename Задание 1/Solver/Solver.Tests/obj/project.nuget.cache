@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "FFsKBvozwOfNsp42LOKK1PBlRTWnwTS+qoU0OIUl89CO4jIQU1V7bz4xiUtsWqkVDenuFk0d82ckCfQtAfA0Dw==",
+  "dgSpecHash": "O66sBDLeYSZ96yvGPB7rxStjSygGqxnlx+s1wVroNtceoDlUFKdt6o6dBOLftfyKUds4xDSiPRC0ADvXYPg4iQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver.Tests\\Solver.Tests.csproj",
+  "projectFilePath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver.Tests\\Solver.Tests.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Daniil\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Daniil\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",

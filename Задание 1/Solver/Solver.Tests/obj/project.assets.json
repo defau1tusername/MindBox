@@ -3978,11 +3978,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver.Tests\\Solver.Tests.csproj",
+      "projectUniqueName": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver.Tests\\Solver.Tests.csproj",
       "projectName": "Solver.Tests",
-      "projectPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver.Tests\\Solver.Tests.csproj",
+      "projectPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver.Tests\\Solver.Tests.csproj",
       "packagesPath": "C:\\Users\\Daniil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver.Tests\\obj\\",
+      "outputPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Daniil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -3999,8 +3999,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver\\Solver.csproj": {
-              "projectPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\Solver\\Solver\\Solver.csproj"
+            "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver\\Solver.csproj": {
+              "projectPath": "C:\\Users\\Daniil\\Desktop\\Тестовое MindBox\\MindBox\\Задание 1\\Solver\\Solver\\Solver.csproj"
             }
           }
         }

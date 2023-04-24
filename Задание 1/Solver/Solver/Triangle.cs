@@ -7,6 +7,7 @@ public class Triangle : IFigureWithArea, IFigureWithPerimeter
     private readonly double c;
     private double? area;
     private double? perimeter;
+
     public Triangle(double a, double b, double c)
     {
         if (a <= 0 || b <= 0 || c <= 0)

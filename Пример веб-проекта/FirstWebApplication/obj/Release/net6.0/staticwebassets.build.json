@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "f39Hctrhx/sK21qnvSfy2tdlpQaPEh98MzZ2sQs4xns=",
+  "Source": "FirstWebApplication",
+  "BasePath": "_content/FirstWebApplication",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstWebApplication\\wwwroot",
+      "Source": "FirstWebApplication",
+      "ContentRoot": "C:\\Users\\Daniil\\source\\repos\\FirstWebApplication\\FirstWebApplication\\wwwroot\\",
+      "BasePath": "_content/FirstWebApplication",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

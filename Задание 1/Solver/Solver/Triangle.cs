@@ -33,16 +33,16 @@ public class Triangle : IFigureWithArea, IFigureWithPerimeter
     }
 
     public double Perimeter => perimeter ??= a + b + c;
-
+   
     public bool IsRight()
     {
         var epsilon = 1e-5;
-        return EqualTo(c * c, a * a + b * b, epsilon)
-            || EqualTo(a * a, c * c + b * b, epsilon)
-            || EqualTo(b * b, c * c + a * a, epsilon);
+        return Equals(c * c, a * a + b * b, epsilon)
+            || Equals(a * a, c * c + b * b, epsilon)
+            || Equals(b * b, c * c + a * a, epsilon);
     }
 
-    public static bool EqualTo(double value1, double value2, double epsilon) =>
+    private static bool Equals(double value1, double value2, double epsilon) =>
         Math.Abs(value1 - value2) < epsilon;
 }
 

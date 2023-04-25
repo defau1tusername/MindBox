@@ -4,7 +4,11 @@
 2. Нахождение площади треугольника (при наличии длины трех сторон)
 3. Проверка на прямоугольность треугольника (при наличии длины трех сторон)
 
-Пример пользовательского интерфейса: new Circle(3).Area; new Triangle(1,2,3).Area;
+Пример пользовательского интерфейса: 
+```
+new Circle(3).Area; 
+new Triangle(1,2,3).Area;
+```
 
 # Solver2 (библиотека)
 Функции:
@@ -14,7 +18,11 @@
 
 Преимущество по сравнению с Solve - пользователям библиотеки классы фигур недоступны.
 
-Пример пользовательского интерфейса: Figure.ForCircle().WithRadius(3).GetArea(); Figure.ForTriangle().WithSides(1, 2, 3).CheckIsRight();
+Пример пользовательского интерфейса: 
+```
+Figure.ForCircle().WithRadius(3).GetArea(); 
+Figure.ForTriangle().WithSides(1, 2, 3).CheckIsRight();
+```
 
 # Avito Analytics (веб-приложение)
 Функции:

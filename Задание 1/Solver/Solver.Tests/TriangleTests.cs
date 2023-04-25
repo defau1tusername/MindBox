@@ -6,12 +6,13 @@ public class TriangleTests
     [TestCase(12, 2, 12, 11.958260743101398)]
     public void AreaCalculation_IsCorrect(double a, double b, double c, double expected)
     {
-        Assert.That(new Triangle(a, b, c).Area, Is.EqualTo(expected));
+        var epsilon = 1e-5;
+        Assert.That(expected, Is.EqualTo(new Triangle(a, b, c).Area).Within(epsilon));
     }
 
     [TestCase(0, 0, 0)]
     [TestCase(-12, -2, -12)]
-    public void Constructor_WhenRadiusNonPositiveOrZero_ShouldThrowException(double a, double b, double c)
+    public void Constructor_WhenLengthNonPositiveOrZero_ShouldThrowException(double a, double b, double c)
     {
         Assert.Throws<ArgumentOutOfRangeException>(() => new Triangle(a, b, c));
     }

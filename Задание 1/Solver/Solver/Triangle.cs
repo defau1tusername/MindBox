@@ -36,9 +36,13 @@ public class Triangle : IFigureWithArea, IFigureWithPerimeter
 
     public bool IsRight()
     {
-        return c * c == a * a + b * b
-            || a * a == c * c + b * b
-            || b * b == c * c + a * a;
+        var epsilon = 1e-5;
+        return EqualTo(c * c, a * a + b * b, epsilon)
+            || EqualTo(a * a, c * c + b * b, epsilon)
+            || EqualTo(b * b, c * c + a * a, epsilon);
     }
+
+    public static bool EqualTo(double value1, double value2, double epsilon) =>
+        Math.Abs(value1 - value2) < epsilon;
 }
 

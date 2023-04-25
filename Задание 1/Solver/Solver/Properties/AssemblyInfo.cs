@@ -6,9 +6,9 @@ using System.Runtime.InteropServices;
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
 [assembly: AssemblyTitle("Solver")]
-[assembly: AssemblyDescription("")]
+[assembly: AssemblyDescription("Библиотека, основные функции: получение площади окружности (при наличии радиуса), получение площади треугольника и проверка его на прямоугольность (при наличии трех сторон)")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("")]
+[assembly: AssemblyCompany("-")]
 [assembly: AssemblyProduct("Solver")]
 [assembly: AssemblyCopyright("Copyright ©  2023")]
 [assembly: AssemblyTrademark("")]

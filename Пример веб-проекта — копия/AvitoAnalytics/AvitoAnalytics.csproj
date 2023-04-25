@@ -1,0 +1,48 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <Nullable>disable</Nullable>
+    <ImplicitUsings>disable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="avitoHelper\**" />
+    <Compile Remove="Tests\**" />
+    <Compile Remove="wwwroot - Copy\**" />
+    <Content Remove="avitoHelper\**" />
+    <Content Remove="Tests\**" />
+    <Content Remove="wwwroot - Copy\**" />
+    <EmbeddedResource Remove="avitoHelper\**" />
+    <EmbeddedResource Remove="Tests\**" />
+    <EmbeddedResource Remove="wwwroot - Copy\**" />
+    <None Remove="avitoHelper\**" />
+    <None Remove="Tests\**" />
+    <None Remove="wwwroot - Copy\**" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Remove="wwwroot\css\style.css" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="html\index.html" />
+    <Content Include="html\monitoring.html" />
+    <Content Include="html\statistics.html" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\monitoring.css" />
+    <None Include="wwwroot\favicon.ico" />
+    <None Include="wwwroot\favicon.ico.png" />
+    <None Include="wwwroot\img\deleteButton.png" />
+    <None Include="wwwroot\javascript\monitoring.js" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="HtmlAgilityPack" Version="1.11.46" />
+    <PackageReference Include="MongoDB.Driver" Version="2.19.1" />
+    <PackageReference Include="Serilog.AspNetCore" Version="6.1.0" />
+  </ItemGroup>
+
+</Project>

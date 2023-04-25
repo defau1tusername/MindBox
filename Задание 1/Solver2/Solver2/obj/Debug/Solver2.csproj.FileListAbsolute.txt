@@ -1,0 +1,13 @@
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\Solver.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\Solver.pdb
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\NuGet.Common.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\NuGet.Configuration.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\NuGet.Frameworks.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\NuGet.Versioning.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\obj\Debug\Solver2.csproj.AssemblyReference.cache
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\obj\Debug\Solver2.csproj.CoreCompileInputs.cache
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\obj\Debug\Solver2.csproj.CopyComplete
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\obj\Debug\Solver.dll
+C:\Users\Daniil\Desktop\Тестовое MindBox\MindBox\Задание 1\Solver2\Solver2\obj\Debug\Solver.pdb

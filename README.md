@@ -12,8 +12,7 @@ new Triangle(1,2,3).Area;
 
 <details> 
   <summary>Решаемая задача</summary>
-  вфыафыва
-  фва
+  <img src="https://i.ibb.co/rQ4SHLK/image.png" width="350" title="hover text">
 </details>
 
 # Solver2 (библиотека)
@@ -29,6 +28,11 @@ new Triangle(1,2,3).Area;
 Figure.ForCircle().WithRadius(3).GetArea(); 
 Figure.ForTriangle().WithSides(1, 2, 3).CheckIsRight();
 ```
+
+<details> 
+  <summary>Решаемая задача</summary>
+  <img src="https://i.ibb.co/rQ4SHLK/image.png" width="350" title="hover text">
+</details>
 
 # Avito Analytics (веб-приложение)
 Функции:

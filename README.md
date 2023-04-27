@@ -10,6 +10,12 @@ new Circle(3).Area;
 new Triangle(1,2,3).Area;
 ```
 
+<details> 
+  <summary>Решаемая задача</summary>
+  вфыафыва
+  фва
+</details>
+
 # Solver2 (библиотека)
 Функции:
 1. Нахождение площади окружности (при наличии радиуса)

@@ -12,7 +12,7 @@ new Triangle(1,2,3).Area;
 
 <details> 
   <summary>Решаемая задача</summary>
-  <img src="https://i.ibb.co/rQ4SHLK/image.png" width="350" title="hover text">
+  <img src="https://i.ibb.co/rQ4SHLK/image.png" width="600" title="hover text">
 </details>
 
 # Shape Processor2 (библиотека)
